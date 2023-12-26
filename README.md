@@ -51,42 +51,7 @@ Below is short explanation of remaining files in the project folder.
 ├── ncnn
 │   ├── include
 │   │   └── ncnn
-│   │       ├── allocator.h
-│   │       ├── benchmark.h
-│   │       ├── blob.h
-│   │       ├── c_api.h
-│   │       ├── command.h
-│   │       ├── cpu.h
-│   │       ├── datareader.h
-│   │       ├── gpu.h
-│   │       ├── layer.h
-│   │       ├── layer_shader_type.h
-│   │       ├── layer_shader_type_enum.h
-│   │       ├── layer_type.h
-│   │       ├── layer_type_enum.h
-│   │       ├── mat.h
-│   │       ├── modelbin.h
-│   │       ├── ncnn_export.h
-│   │       ├── net.h
-│   │       ├── option.h
-│   │       ├── paramdict.h
-│   │       ├── pipeline.h
-│   │       ├── pipelinecache.h
-│   │       ├── platform.h
-│   │       ├── simplemath.h
-│   │       ├── simpleocv.h
-│   │       ├── simpleomp.h
-│   │       ├── simplestl.h
-│   │       └── vulkan_header_fix.h
 │   └── lib
-│       ├── cmake
-│       │   └── ncnn
-│       │       ├── ncnn-release.cmake
-│       │       ├── ncnn.cmake
-│       │       └── ncnnConfig.cmake
-│       ├── libncnn.a
-│       └── pkgconfig
-│           └── ncnn.pc
 ├── partitions.csv
 ├── sdkconfig
 ├── sdkconfig.defaults
@@ -99,6 +64,5 @@ Below is short explanation of remaining files in the project folder.
     └── image3.png
 
 9 directories, 45 files
-
 ```
 
