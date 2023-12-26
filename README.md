@@ -1,10 +1,7 @@
-
-
-
-# Fastdet model running on ESP32
+# ncnn & Fastdet model running on ESP32
 
 This project does not work well due to the following problems
---- The ex.extract output size is empty
+---> The ex.extract() output size is empty
 
 ```
 I (10) boot: ESP-IDF v5.0.5-dirty 2nd stage bootloader
