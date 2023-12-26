@@ -35,7 +35,9 @@ idf.py build && idf.py flash && idf.py monitor
 This project uses fastdet & ncnn_on_esp32 as reference.
 
 https://github.com/dog-qiuqiu/FastestDet/tree/main/example/ncnn
+
 https://github.com/nihui/ncnn_on_esp32
+
 https://zhuanlan.zhihu.com/p/492142807
 
 Below is short explanation of remaining files in the project folder.
