@@ -22,10 +22,6 @@ img_height320
  ex.extract output size: 0, 0, 0
 Time:1597 ms
 
-FATAL ERROR! pool allocator destroyed too early
-0x0 still in use
-I (13622) main_task: Returned from app_main()
-
 ```
 
 build command
